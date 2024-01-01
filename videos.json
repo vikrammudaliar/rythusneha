@@ -1,30 +1,12 @@
 {
-    "message": "రైతుస్నేహకు స్వాగతం",
-    "footer": "మరిన్ని వీడియోలు త్వరలో రానున్నాయి",
+    "message": "Welcome to RythuSneha",
+    "footer": "More Videos Coming Soon!",
     "videos": [
         {
             "number": 1,
             "id": "3Pnzp7W41rs",
-            "title": "పత్తి పంటలో కలుపు నివారణ",
+            "title": "Weed control in cotton crop",
             "summary": "పత్తి పంటలో కలుపు నివారణ Weed control in cotton crop, Dr.A.S.Rao, PhD. Rythu Sneha, Srinaren Ayinala"
         },
-        {
-            "number": 2,
-            "id": "3Pnzp7W41rs",
-            "title": "పత్తి పంటలో కలుపు నివారణ",
-            "summary": "పత్తి పంటలో కలుపు నివారణ Weed control in cotton crop, Dr.A.S.Rao, PhD. Rythu Sneha, Srinaren Ayinala"
-        },
-        {
-            "number": 3,
-            "id": "3Pnzp7W41rs",
-            "title": "పత్తి పంటలో కలుపు నివారణ",
-            "summary": "పత్తి పంటలో కలుపు నివారణ Weed control in cotton crop, Dr.A.S.Rao, PhD. Rythu Sneha, Srinaren Ayinala"
-        },
-        {
-            "number": 4,
-            "id": "3Pnzp7W41rs",
-            "title": "పత్తి పంటలో కలుపు నివారణ",
-            "summary": "పత్తి పంటలో కలుపు నివారణ Weed control in cotton crop, Dr.A.S.Rao, PhD. Rythu Sneha, Srinaren Ayinala"
-        }
     ]
 }
